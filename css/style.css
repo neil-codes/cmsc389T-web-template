@@ -101,7 +101,7 @@ html, body {
 
 .about-prof-image {
     float: left;
-    height: 175px;
+    height: auto;
     width: 190px;
     margin: 30px;
     border-radius: 50%;
